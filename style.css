@@ -1,0 +1,428 @@
+
+.main-body{
+    font-family: 'Open Sans', sans-serif;                                                                                                    
+}
+
+/* navbar */
+.img-top {
+    height: 113px;
+    width: 117px;
+}
+#top-1{
+background-image: url(images/top-bg-img.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+.navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 42px;
+}
+/* heading */
+.heading{
+ text-align: center;
+}
+.headind-top{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 77px;
+    letter-spacing: 17px;
+}
+.orga{
+    color: #ffff;
+}
+.fresh{
+    color: #1DE148;
+}
+.from-frsh{
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 6px;
+    position: relative;
+    right: 17px;
+    top: -54px;
+    
+}
+.semi{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 7rem;
+    color: #ffff;
+    position: relative;
+    top: 29px;
+    left: 20px;
+    
+}
+/* col-left first */
+.col-first-left{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffff;
+    padding-left: 65px;
+    padding-bottom: 25px;
+}
+.btn-top-f{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.btn-sign{
+    bottom: 18px;
+   
+    position: relative;
+    padding-bottom: 20px;
+    left: 29%;
+}
+
+
+    /* custom primary buttons */
+    
+    .btn-primary:focus,
+    .btn-primary.focus {
+        box-shadow: 0 0 0 .2rem rgba(91, 194, 194, 0.5)
+    }
+    
+    .btn-outline-primary {
+        color: #ffffff;
+        background-color: transparent;
+        background-image: none;
+        border-color:  #1DE148;
+        border-radius: 10px;
+        
+    }
+    
+    .btn-outline-primary:hover {
+        color: rgb(255, 255, 255);
+        background-color: #1DE148;
+        border-color: #1DE148
+      
+    }
+    
+    .btn-outline-primary:focus,
+    .btn-outline-primary.focus {
+        box-shadow: 0 0 0 .2rem #ffffff33
+    }
+   
+/* col-left sec */
+.col-first-right {
+    position: relative;
+    left: 69%;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 72px;
+}
+.col-first-right-top-text {
+    color:#C2EB67 ;
+    padding-bottom: 10px;
+}
+.col-first-right-bot-text{
+    color:#C2EB67 ;
+   
+}
+.col-first-right-mid-text{
+    padding-bottom: 10px;
+ }
+/* font avsome */
+.fa-colr-chng{
+    color:  #C2EB67;
+}
+/* second-page */
+#top-2{
+background-image: url(images/2nd-img.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.h2-qa{
+    padding-bottom: 20px;
+    color: #000000;
+   
+}
+.p-qa{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+.text-top-left{
+    padding-top: 55px;
+    padding-left: 61px;
+}
+.text-bot-left {
+    /* padding-top: 264px; */
+    padding-left: 61px;
+    padding-bottom: 29px;
+}
+.img-1-lef{
+    width: 317px;
+}
+
+
+
+.img-2-lef {
+    width: 255px;
+    padding-top: 53px;
+    text-align: center;
+    position: absolute;
+    top: 815px;
+    left: 72%;
+}
+.text-top-right {
+    padding-top: 40px;
+    text-align: right;
+    position: absolute;
+    top: 643px;
+    left: 45%;
+}
+
+.text-bot-right {
+    padding-top: 40px;
+    text-align: right;
+    position: absolute;
+    top: 1031px;
+    left: 45%;
+}
+
+/* sec */
+
+
+.move-left{
+    position: relative;
+    right: 20px;
+}
+
+#img-sec{
+    background-image: url(images/img-3-bg.png);  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    background-color: rgba(250, 235, 215, 0);
+}
+.COL-JUS-2{
+    padding-left: 30px;
+}
+li{
+    color: rgb(255, 217, 0);
+}
+/* corosal */
+#corosal{
+    background-image: url(images/last-2.png);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -17px;
+    padding-bottom: 30px;
+}
+.corosal-p {
+    font-size: 53px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+   
+}
+
+
+.corosal-h2 {
+    font-size: 163px;
+    color: #1DE148;
+    text-align: center;
+    padding-top: 54px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 35rem;
+    height: 6rem;
+    background-repeat: no-repeat;
+    background-position: 49%;
+    background-size: 96% 118%;
+    color: white;
+    position: relative;
+    top: 42px;
+}
+
+/* last-tern */
+#last-tenn{
+background-image: url(images/appukutan-lasat.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.last-h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 56px;
+    padding-left: 33%;
+}
+
+     .last-tex-eg {
+       
+        font-size: 30px;
+       
+        position: relative;
+      
+
+    }
+.sss{
+    padding-top: 30px;
+    color: darkolivegreen;
+}
+
+.formuu {
+    position: relative;
+    left: 34%;
+    padding-top: 4%;
+}
+.lasttuuuuuuu {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-size: 43px;
+    color: white;
+    padding-left: 22%;
+    padding-top: 30px;
+}
+.fav-lg-last{
+    padding-left: 22%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+@media (max-width:992.50px) and (min-width:795px) {
+    .col-first-left {
+        font-family: 'Josefin Sans', sans-serif;
+        color: #ffff;
+        padding-left: 26px;
+        padding-bottom: 25px;
+    }
+    
+    .btn-sign {
+        bottom: 18px;
+        position: relative;
+        padding-bottom: 20px;
+        left: 8%;
+    }
+    .col-first-right {
+        position: relative;
+        left: -1%;
+        text-align: center;
+        font-family: 'Josefin Sans', sans-serif;
+        padding-bottom: 0px;
+        top: -1px;
+    }
+    .text-top-right {
+        padding-top: 40px;
+        text-align: right;
+        position: absolute;
+        top: 599px;
+        left: 61%;
+    }
+    .text-bot-right {
+        padding-top: 40px;
+        text-align: right;
+        position: absolute;
+        top: 1014px;
+        left: 61%;
+    }
+    .img-2-lef {
+        width: 228px;
+        padding-top: 53px;
+        text-align: center;
+        position: absolute;
+        top: 811px;
+        left: 67%;
+    }
+}
+@media (max-width:795px) and (min-width:767.50px) {
+    .headind-top {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 60px;
+        letter-spacing: 12px;
+    }
+    .from-frsh {
+        font-family: 'Dosis', sans-serif;
+        letter-spacing: 4px;
+        position: relative;
+        right: 17px;
+        top: -54px;
+    }
+    .btn-sign {
+        bottom: 18px;
+        position: relative;
+        padding-bottom: 20px;
+        left: 16%;
+    }
+    .col-first-right {
+        position: relative;
+        left: 0%;
+        text-align: center;
+        font-family: 'Josefin Sans', sans-serif;
+        padding-bottom: 72px;
+    }
+    .text-top-right {
+        padding-top: 40px;
+        text-align: right;
+        position: absolute;
+        top: 599px;
+        left: 59%;
+    }
+    .text-bot-right {
+        padding-top: 40px;
+        text-align: right;
+        position: absolute;
+        top: 1000px;
+        left: 59%;
+    }
+    .img-2-lef {
+        width: 195px;
+        padding-top: 53px;
+        text-align: center;
+        position: absolute;
+        top: 815px;
+        left: 67%;
+    }
+}
+@media (max-width:767.49px) and (min-width:600px) {
+    .headind-top {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 47px;
+        letter-spacing: 17px;
+    } 
+    .from-frsh {
+        font-family: 'Dosis', sans-serif;
+        letter-spacing: 2px;
+        position: relative;
+        right: 17px;
+        top: -58px;
+    }
+    .btn-sign {
+        bottom: 18px;
+        position: relative;
+        padding-bottom: 20px;
+        left: 0%;
+        padding-left: 159px;
+    }
+    .col-first-right {
+        position: relative;
+        left: 0%;
+        text-align: center;
+        font-family: 'Josefin Sans', sans-serif;
+        padding-bottom: 72px;
+    }
+    .text-top-right {
+        padding-top: 40px;
+        text-align: right;
+        position: absolute;
+        top: 733px;
+        left: 57%;
+    }
+    .img-2-lef {
+        width: 217px;
+        padding-top: 53px;
+        text-align: center;
+        position: absolute;
+        top: 894px;
+        left: 62%;
+    }
+    .text-bot-right {
+        padding-top: 40px;
+        text-align: right;
+        position: absolute;
+        top: 1115px;
+        left: 57%;
+    }
+}
