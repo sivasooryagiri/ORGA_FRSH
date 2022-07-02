@@ -541,3 +541,46 @@ background-size: cover;
         left: 49%;
     }
 }
+@media (max-width: 499px) and (min-width: 350px){
+    .headind-top {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    letter-spacing: 5px;
+}
+.from-frsh {
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 0px;
+    position: relative;
+    right: 11px;
+    top: 14px;
+}
+.semi {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 4rem;
+    color: #ffff;
+    position: relative;
+    top: 16px;
+    left: 20px;
+}
+.col-first-left {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffff;
+    padding-left: 6px;
+    padding-bottom: 25px;
+    padding-top: 41px;
+}
+.btn-sign {
+    bottom: 18px;
+    position: relative;
+    padding-bottom: 20px;
+    left: 2%;
+}
+.col-first-right {
+    position: relative;
+    left: -3%;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 72px;
+}
+}
+
