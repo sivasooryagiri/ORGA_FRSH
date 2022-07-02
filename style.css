@@ -422,16 +422,17 @@ background-size: cover;
         padding-top: 53px;
         text-align: center;
         position: absolute;
-        top: 120%;
-        left: 62%;
+        top: 118%;
+        left: 66%;
     }
     .text-bot-right {
         padding-top: 40px;
         text-align: right;
         position: absolute;
-        top: 141%;
-        left: 57%;
+        top: 146%;
+        left: 49%;
     }
+   
 }
 
 @media (max-width:704px) and (min-width:500px) {
@@ -470,7 +471,8 @@ background-size: cover;
     }
     .text-top-left {
         padding-top: 55px;
-        padding-left: 18px;
+        padding-left: 56px;
+        margin-left: -39px;
     }
     .img-2-lef {
         width: 217px;
@@ -491,7 +493,18 @@ background-size: cover;
         padding-top: 40px;
         text-align: right;
         position: absolute;
-        top: 1115px;
-        left: 57%;
+        top: 1222px;
+        left: 48%;
     }
+    .text-bot-left {
+        /* padding-top: 264px; */
+        padding-left: 50px;
+        padding-bottom: 29px;
+        margin-left: -37px;
+    }
+    .img-1-lef {
+        width: 257px;
+    }
+    
+  
 }
